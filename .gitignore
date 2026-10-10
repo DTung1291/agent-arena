@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Foundry build artifacts
+contracts/out/
+contracts/cache/
+
+# Environment — NEVER commit secrets
+.env
+.env.local
+.env.*.local
+
+# Circle recovery file
+.circle/
+
+# Logs
+*.log
+/tmp/
+
+# Arc Studio runtime files
+console.jsonl
+traces.jsonl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Bun
+.bun-version
+bun.lock

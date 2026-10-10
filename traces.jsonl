@@ -1,0 +1,1 @@
+{"type":"event","event":{"event":{"kind":"rpc","id":"5dc30366-1","timestamp":1791640393959,"method":"wallet_requestPermissions","params":[{"eth_accounts":{}}],"chainId":0,"error":"[object Object]","duration":3196},"enrichmentStatus":"none"}}
